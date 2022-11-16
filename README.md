@@ -1,4 +1,5 @@
-# This Repo is cloned from [LAV](https://github.com/dotchen/LAV)
+# LAV_Toy
+This Repo is cloned from [LAV](https://github.com/dotchen/LAV)
 
 # LAV
 ![teaser](assets/teaser.svg)
