@@ -16,7 +16,8 @@ dependencies:
     - moviepy
     - imageio
     - imageio-ffmpeg
-    - ray==1.1.0
+#     - ray==1.1.0
+    - ray
     - requests
     - opencv-python
     - pyyaml
